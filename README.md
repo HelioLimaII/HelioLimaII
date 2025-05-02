@@ -26,12 +26,12 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho trabalhado:
 * **Banco de Dados:** MySQL
 * **Controle de Versão:** Git & GitHub
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@5.15.4/svgs/solid/code-branch.svg"><img alt="Ícone de branch" src="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@5.15.4/svgs/solid/code-branch.svg"></picture> Projetos
+Projetos
 
 *Estou sempre trabalhando em novos projetos!* Aqui estão alguns dos meus repositórios que você pode achar interessantes:
 
-* [Nome do Projeto 1]([link-para-o-repo-1](https://github.com/HelioLimaII/Branch-and-Bound-Algorithm)): Breve descrição do projeto.
-* [Nome do Projeto 2]([link-para-o-repo-2](https://github.com/HelioLimaII/Sistema-Operacional)): Breve descrição do projeto.
+* [Branch and Bound]((https://github.com/HelioLimaII/Branch-and-Bound-Algorithm)): Este projeto implementa o algoritmo Branch and Bound (B&B) para resolver problemas de programação linear inteira binária (variáveis só podem ser 0 ou 1) de maximização. O código utiliza a biblioteca mip (Python-MIP) para resolver os problemas lineares relaxados em cada nó da árvore de B&B.
+* [Sistema Operacional]((https://github.com/HelioLimaII/Sistema-Operacional)): Este repositório contém dois projetos desenvolvidos para a disciplina de Sistemas Operacionais.
 * *(Adicione mais projetos conforme necessário)*
 
 ## 📫 Como me encontrar
