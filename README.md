@@ -36,7 +36,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho trabalhado:
 
 ## 📫 Como me encontrar
 
-* **LinkedIn:** [Seu Link do LinkedIn]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/h%C3%A9lio-lima-aab448230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+* **LinkedIn:**([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/h%C3%A9lio-lima-aab448230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 * **Email:** heliocorreia.dev@gmail.com
 
 <p align="center">
